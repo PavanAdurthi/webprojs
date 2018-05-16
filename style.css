@@ -1,0 +1,21 @@
+.btn-hover {
+    background-color: #1e88e5;
+}
+
+.btn-hover:hover {
+	background-color: #4527a0;
+	transform: scaleY(1.1);
+	transform-style: flat;
+	text-decoration-color: #ffcdd2;
+}
+
+.txt {
+    background-color: #1e88e5;
+}
+
+.txt:hover {
+	background-color: #4527a0;
+	transform: scaleY(1.1);
+	transform-style: flat;
+	text-decoration-color: #ffcdd2;
+}
